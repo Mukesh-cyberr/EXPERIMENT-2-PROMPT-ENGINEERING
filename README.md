@@ -76,7 +76,7 @@ End the experiment.
 
 ## Output
 
-[Comparative_Analysis_Prompting_Patterns](Comparative_Analysis_Prompting_Patterns.pdf)
+[Comparative_Analysis_Prompting_Patterns](Comparative_Analysis_Prompting_Patterns_Aligned.pdf)
 ## Result
 
 The experiment successfully compared different prompting patterns across 
